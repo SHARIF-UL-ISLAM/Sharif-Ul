@@ -1,0 +1,50 @@
+body{
+    font-family: 'Lora', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Vujahday Script', cursive;
+    background-image: url(images/FB_IMG_1641365421408.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+    margin: 30px;
+    }
+    h1{
+        color: blanchedalmond;
+    }
+    h3{
+        color: burlywood;
+        font-size: 30px;
+    }
+    h4{
+        color: cornflowerblue;
+        font-size: 25px;
+        font-family: monospace;
+    }
+    p{
+        font-size: 20px;
+        font-family: sans-serif;
+        color: darkred;
+    }
+    .mirron{
+        color: maroon;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding-right: 1%;
+    }
+    .half-width{
+        width: 50%;
+    }
+    .half-width img{
+        width: 80%;
+    }
+    section{
+        display: flex;
+    }
+    .link-button{
+        padding-left: 1%;
+        padding-right: 1%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 40px;
+        background-color: rgb(178, 163, 32);
+        text-decoration: none;
+        border-radius: 5px;
+       
+    }
